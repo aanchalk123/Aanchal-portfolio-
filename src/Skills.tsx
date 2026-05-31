@@ -5,7 +5,7 @@ function Skills() {
               ]
 
                 return (
-                    <section id="skills" className="bg-gray-800 py-16 px-4 text-center">
+                    <section id="skills" className="bg-gray-800 py-16 px-4 text-center animate-fadeInUp">
                           <h2 className="text-3xl font-bold text-white mb-8">Skills</h2>
                                 <div className="flex flex-wrap justify-center gap-3 max-w-2xl mx-auto">
                                         {skills.map((skill) => (
