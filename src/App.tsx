@@ -6,7 +6,7 @@ import NavBar from "./NavBar";
 
 function App() {
       return (
-          <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center justify-center text-center px-4">
+          <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center justify-center text-center pt-20">
                 <NavBar/>
                       <h1 className="text-5xl font-bold mb-4 animate-fadeInUp">
                               Hi, I'm <span className="text-blue-400">Aanchal Kumari</span>
