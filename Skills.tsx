@@ -40,7 +40,7 @@ declare global {
                                                                                                                                                                                                                                         ))}
                                                                                                                                                                                                                                               </div>
                                                                                                                                                                                                                                                   </section>
-                                                                                                                                                                                                                                                    );
+                                                                                                                                                                                                                                            );
                                                                                                                                                                                                                                                     };
 
                                                                                                                                                                                                                                                     export default Skills;
